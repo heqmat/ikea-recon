@@ -1,0 +1,1042 @@
+
+http://adminevents.ikea.com (0.2s):
+    <no results>
+http://admin.qa.journeys.ikea.com (0.3s):
+    <no results>
+http://acc.about.ikea.com (0.3s):
+    <no results>
+http://api.dexf.ikea.com (0.2s):
+    <no results>
+http://admin.dev.journeys.ikea.com (0.4s):
+    <no results>
+http://about.ikea.com (0.4s):
+    <no results>
+http://analytics.dexf.ikea.com (0.1s):
+    <no results>
+http://admin.journeys.ikea.com (0.5s):
+    <no results>
+https://analytics.dexf.ikea.com (0.1s):
+    <no results>
+https://adminevents.ikea.com (0.5s):
+    <no results>
+http://api.ingka.ikea.com (0.1s):
+    <no results>
+https://api.ingka.ikea.com (0.2s):
+    IBM DataPower,  (Reverse proxies)
+http://appointmentbooking.ikea.com (0.1s):
+    <no results>
+https://api.dexf.ikea.com (0.4s):
+    <no results>
+http://api.food.inter.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://admin.journeys.ikea.com (0.9s):
+    DataTables,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Font Awesome,  (Font scripts)
+    Azure,  (PaaS)
+    jQuery UI,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Chart.js,  (JavaScript graphics)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    animate.css,  (UI frameworks)
+    Bootstrap,  (UI frameworks)
+    Raphael,  (JavaScript graphics)
+    AngularJS,  (JavaScript frameworks)
+    jQuery,  (JavaScript libraries)
+http://api.kitchen.planner.ikea.com (0.3s):
+    <no results>
+https://admin.qa.journeys.ikea.com (0.7s):
+    Raphael,  (JavaScript graphics)
+    AngularJS,  (JavaScript frameworks)
+    jQuery,  (JavaScript libraries)
+    DataTables,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Font Awesome,  (Font scripts)
+    Azure,  (PaaS)
+    jQuery UI,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Chart.js,  (JavaScript graphics)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    animate.css,  (UI frameworks)
+    Bootstrap,  (UI frameworks)
+https://api.inter.ikea.com (0.6s):
+    <no results>
+https://ar.ikea.com (0.3s):
+    <no results>
+https://api.kitchen.planner.ikea.com (0.4s):
+    <no results>
+http://ar.ikea.com (0.4s):
+    <no results>
+http://au.accounts.ikea.com (0.2s):
+    <no results>
+http://at.accounts.ikea.com (0.2s):
+    <no results>
+https://admin.dev.journeys.ikea.com (1.4s):
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    animate.css,  (UI frameworks)
+    Bootstrap,  (UI frameworks)
+    Raphael,  (JavaScript graphics)
+    AngularJS,  (JavaScript frameworks)
+    jQuery,  (JavaScript libraries)
+    DataTables,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Font Awesome,  (Font scripts)
+    Azure,  (PaaS)
+    jQuery UI,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Chart.js,  (JavaScript graphics)
+https://api.food.inter.ikea.com (0.8s):
+    Amazon S3,  (Miscellaneous)
+    Amazon Web Services,  (PaaS)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://bugs.ikea.com (0.2s):
+    <no results>
+http://arassetimages.ikea.com (0.6s):
+    <no results>
+https://at.accounts.ikea.com (0.4s):
+    <no results>
+http://bathroomplanner.ikea.com (0.6s):
+    <no results>
+https://arassetimages.ikea.com (0.8s):
+    <no results>
+http://bi.food.inter.ikea.com (0.5s):
+    <no results>
+https://bathroomplanner.ikea.com (0.5s):
+    <no results>
+http://ca-m.ikea.com (0.2s):
+    <no results>
+https://bi.food.inter.ikea.com (0.7s):
+    <no results>
+http://ca.ikea.com (0.2s):
+    <no results>
+https://blog.ikea.com.au (0.5s):
+    <no results>
+https://ca.ikea.com (0.2s):
+    <no results>
+https://ca-m.ikea.com (0.2s):
+    <no results>
+http://ca-securem.ikea.com (0.2s):
+    <no results>
+http://checkout.eg.ikea.com (0.2s):
+    <no results>
+https://ca-securem.ikea.com (0.3s):
+    <no results>
+http://catalog-integration-test.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://checkout.eg.ikea.com (0.3s):
+    <no results>
+https://bugs.ikea.com (1.0s):
+    <no results>
+https://appointmentbooking.ikea.com (2.0s):
+    Bootstrap,  (UI frameworks)
+    jQuery,  (JavaScript libraries)
+    Font Awesome,  (Font scripts)
+    OWL Carousel,  (Widgets)
+    jQuery,  (JavaScript libraries)
+http://blog.ikea.com.au (1.1s):
+    <no results>
+http://checkout.my.staging.ikea.com (0.2s):
+    <no results>
+http://checkout.qa.ikea.com (0.2s):
+    <no results>
+http://checkout.qa.staging.ikea.com (0.1s):
+    <no results>
+https://catalog-integration-test.ikea.com (0.8s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://checkout.eg.staging.ikea.com (0.5s):
+    <no results>
+http://checkout.sg.ikea.com (0.2s):
+    <no results>
+http://checkout.sg.staging.ikea.com (0.1s):
+    <no results>
+http://checkout.staging.ikea.com (0.1s):
+    <no results>
+https://checkout.eg.staging.ikea.com (0.5s):
+    <no results>
+http://checkout.test.ikea.com (0.1s):
+    <no results>
+https://checkout.staging.ikea.com (0.1s):
+    <no results>
+http://checkout-service.ocp.ingka.ikea.com (0.4s):
+    <no results>
+https://checkout-service.ocp.ingka.ikea.com (0.3s):
+    <no results>
+https://checkout.test.ikea.com (0.2s):
+    <no results>
+http://checkout.dev.ikea.com (1.1s):
+    <no results>
+https://checkout.dev.ikea.com (1.0s):
+    <no results>
+https://about.ikea.com (3.5s):
+    Font Awesome,  (Font scripts)
+    Azure,  (PaaS)
+    YouTube,  (Video players)
+    Modernizr,  (JavaScript libraries)
+    Sitecore,  (CMS)
+    Hammer.js,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Moment.js,  (JavaScript libraries)
+    Backbone.js,  (JavaScript frameworks)
+    Underscore.js,  (JavaScript libraries)
+http://ci.build.ingka.ikea.com (0.4s):
+    <no results>
+http://checkout.ua.ikea.com (0.4s):
+    <no results>
+http://content.dexf.ikea.com (0.1s):
+    <no results>
+http://checkout.ua.staging.ikea.com (0.4s):
+    <no results>
+https://ci.build.ingka.ikea.com (0.4s):
+    <no results>
+https://content.dexf.ikea.com (0.1s):
+    <no results>
+https://checkout.qa.ikea.com (0.9s):
+    <no results>
+https://checkout.sg.ikea.com (0.9s):
+    <no results>
+https://checkout.ua.ikea.com (0.4s):
+    Azure,  (PaaS)
+https://checkout.my.staging.ikea.com (0.9s):
+    <no results>
+https://checkout.ua.staging.ikea.com (0.4s):
+    Azure,  (PaaS)
+https://checkout.qa.staging.ikea.com (0.9s):
+    <no results>
+https://checkout.sg.staging.ikea.com (0.9s):
+    <no results>
+http://da-int-jobs.about.ikea.com (0.3s):
+    <no results>
+http://developer.ikea.com (0.5s):
+    <no results>
+http://dppsi.food.inter.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Amazon S3,  (Miscellaneous)
+    Amazon Web Services,  (PaaS)
+    Google Font API,  (Font scripts)
+http://developer.inter.ikea.com (0.5s):
+    Google Cloud,  (CDN)
+    Google Font API,  (Font scripts)
+    Nginx,  (Web servers, Reverse proxies)
+http://en-int-jobs.about.ikea.com (0.5s):
+    <no results>
+https://dppsi.food.inter.ikea.com (0.5s):
+    Amazon S3,  (Miscellaneous)
+    Amazon Web Services,  (PaaS)
+    Google Font API,  (Font scripts)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://developer.inter.ikea.com (0.6s):
+    Nginx,  (Web servers, Reverse proxies)
+    Google Cloud,  (CDN)
+    Google Font API,  (Font scripts)
+http://es-jobs.about.ikea.com (0.4s):
+    <no results>
+http://enterpriseenrollment.ikea.com (0.7s):
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    Microsoft ASP.NET, 4.0.30319 (Web frameworks)
+http://cs-int-jobs.about.ikea.com (1.5s):
+    <no results>
+http://es-mx-int-jobs.about.ikea.com (0.4s):
+    <no results>
+http://es-mx-jobs.about.ikea.com (0.5s):
+    <no results>
+http://en-jobs.about.ikea.com (1.4s):
+    <no results>
+http://et-int-jobs.about.ikea.com (0.7s):
+    <no results>
+http://eu.ikea.com (0.3s):
+    <no results>
+http://eu-m.ikea.com (0.3s):
+    <no results>
+https://eu.ikea.com (0.3s):
+    <no results>
+https://enterpriseenrollment.ikea.com (1.2s):
+    Microsoft ASP.NET, 4.0.30319 (Web frameworks)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+https://eu-m.ikea.com (0.4s):
+    <no results>
+http://eu-securem.ikea.com (0.5s):
+    <no results>
+https://developer.ikea.com (3.3s):
+    Azure,  (PaaS)
+    Modernizr,  (JavaScript libraries)
+    Sitecore,  (CMS)
+    Hammer.js,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Moment.js,  (JavaScript libraries)
+    Microsoft ASP.NET,  (Web frameworks)
+    Backbone.js,  (JavaScript frameworks)
+    Underscore.js,  (JavaScript libraries)
+https://eu-securem.ikea.com (0.3s):
+    <no results>
+https://da-int-jobs.about.ikea.com (3.8s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://fi.accounts.ikea.com (0.3s):
+    <no results>
+https://es-jobs.about.ikea.com (3.8s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://events.ikea.com (1.4s):
+    <no results>
+http://everyday.ikea.com (0.7s):
+    OpenResty,  (Web servers)
+    Nginx,  (Web servers, Reverse proxies)
+    Lua,  (Programming languages)
+https://events.ikea.com (1.2s):
+    <no results>
+https://en-int-jobs.about.ikea.com (4.2s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://fi.accounts.ikea.com (0.4s):
+    <no results>
+http://fi-int-jobs.about.ikea.com (0.5s):
+    <no results>
+http://food.inter.ikea.com (0.4s):
+    <no results>
+http://foodsupply.ikea.com (0.5s):
+    <no results>
+https://everyday.ikea.com (0.9s):
+    OpenResty,  (Web servers)
+    Nginx,  (Web servers, Reverse proxies)
+    Lua,  (Programming languages)
+    Tumblr,  (Blogs)
+https://cs-int-jobs.about.ikea.com (5.8s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://food.inter.ikea.com (0.6s):
+    <no results>
+https://foodsupply.ikea.com (0.5s):
+    <no results>
+https://en-jobs.about.ikea.com (5.3s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://fr-int-jobs.about.ikea.com (0.4s):
+    <no results>
+http://gb.accounts.ikea.com (0.3s):
+    <no results>
+http://fr-jobs.about.ikea.com (0.5s):
+    <no results>
+https://gb.accounts.ikea.com (0.3s):
+    <no results>
+https://es-mx-jobs.about.ikea.com (4.4s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://gbinincontact.ikea.com (0.4s):
+    <no results>
+http://gbinincontact.ikea.com (0.5s):
+    <no results>
+http://git-test.build.ingka.ikea.com (0.5s):
+    <no results>
+https://et-int-jobs.about.ikea.com (3.8s):
+    Google Tag Manager,  (Tag managers)
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+https://es-mx-int-jobs.about.ikea.com (4.6s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://git-test.build.ingka.ikea.com (0.4s):
+    GitHub Pages,  (PaaS)
+    Ruby on Rails,  (Web frameworks)
+http://homeplanner.ikea.com (0.6s):
+    <no results>
+https://homeplanner.ikea.com (0.3s):
+    <no results>
+http://hackathon.ikea.com (1.4s):
+    OpenResty,  (Web servers)
+    Nginx,  (Web servers, Reverse proxies)
+    Lua,  (Programming languages)
+    Express,  (Web frameworks, Web servers)
+    Node.js,  (Programming languages)
+https://hackathon.ikea.com (1.3s):
+    OpenResty,  (Web servers)
+    Nginx,  (Web servers, Reverse proxies)
+    Lua,  (Programming languages)
+    Express,  (Web frameworks, Web servers)
+    Node.js,  (Programming languages)
+    Google Cloud,  (CDN)
+https://fi-int-jobs.about.ikea.com (3.4s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://hr-int-jobs.about.ikea.com (0.7s):
+    <no results>
+http://hr-jobs.about.ikea.com (0.4s):
+    <no results>
+http://icsp.cte-m.ingka.ikea.com (0.2s):
+    <no results>
+https://fr-jobs.about.ikea.com (3.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://fr-int-jobs.about.ikea.com (3.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://icsp.cte-f.ingka.ikea.com (0.5s):
+    <no results>
+http://icsp.ingka.ikea.com (0.2s):
+    <no results>
+http://icsp.ppe.ingka.ikea.com (0.2s):
+    <no results>
+http://image.news.email.ikea.com (0.3s):
+    <no results>
+http://ifoodfacts.food.inter.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://ikeadigitaldesignsystem.inter.ikea.com (0.4s):
+    <no results>
+https://image.news.email.ikea.com (0.2s):
+    <no results>
+https://ikeadigitaldesignsystem.inter.ikea.com (0.4s):
+    Azure,  (PaaS)
+    Sitecore,  (CMS)
+http://imcc.inter.ikea.com (0.4s):
+    <no results>
+https://icsp.cte-f.ingka.ikea.com (0.9s):
+    <no results>
+http://insideoutside.ikea.com (0.2s):
+    <no results>
+https://insideoutside.ikea.com (0.1s):
+    <no results>
+https://imcc.inter.ikea.com (0.6s):
+    Express,  (Web frameworks, Web servers)
+    Node.js,  (Programming languages)
+    Nginx, 1.17.7 (Web servers, Reverse proxies)
+    Google Tag Manager,  (Tag managers)
+https://hr-jobs.about.ikea.com (1.8s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://inside.ikea.com (0.2s):
+    <no results>
+http://iows.ikea.com (0.2s):
+    <no results>
+https://iows.ikea.com (0.1s):
+    <no results>
+http://it.accounts.ikea.com (0.2s):
+    <no results>
+https://it.accounts.ikea.com (0.2s):
+    <no results>
+https://hr-int-jobs.about.ikea.com (2.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://inside.ikea.com (0.6s):
+    <no results>
+http://isp.ikea.com (0.4s):
+    Microsoft ASP.NET,  (Web frameworks)
+    Azure,  (PaaS)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+http://jira.build.ingka.ikea.com (0.1s):
+    <no results>
+https://isp.ikea.com (0.5s):
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    Microsoft ASP.NET,  (Web frameworks)
+    Azure,  (PaaS)
+http://it-jobs.about.ikea.com (0.5s):
+    <no results>
+http://jp.accounts.ikea.com (0.1s):
+    <no results>
+http://it-int-jobs.about.ikea.com (0.4s):
+    <no results>
+https://jira.build.ingka.ikea.com (0.3s):
+    Amazon ALB,  (Load balancers)
+    Amazon Web Services,  (PaaS)
+https://jp.accounts.ikea.com (0.2s):
+    <no results>
+http://kr.accounts.ikea.com (0.1s):
+    <no results>
+http://ko-jobs.about.ikea.com (0.3s):
+    <no results>
+http://journeys.ikea.com (0.4s):
+    <no results>
+https://journeys.ikea.com (0.5s):
+    Microsoft ASP.NET,  (Web frameworks)
+    Azure,  (PaaS)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    AngularJS,  (JavaScript frameworks)
+https://kr.accounts.ikea.com (0.5s):
+    <no results>
+http://lt-int-jobs.about.ikea.com (0.5s):
+    <no results>
+http://lv-int-jobs.about.ikea.com (0.3s):
+    <no results>
+http://lt-jobs.about.ikea.com (0.5s):
+    <no results>
+https://it-jobs.about.ikea.com (1.7s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://lv-jobs.about.ikea.com (0.5s):
+    <no results>
+http://lyncdiscover.ikea.com (0.6s):
+    <no results>
+https://it-int-jobs.about.ikea.com (2.7s):
+    Google Tag Manager,  (Tag managers)
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+https://ko-jobs.about.ikea.com (2.5s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://m.ar.ikea.com (0.3s):
+    <no results>
+https://m.ar.ikea.com (0.4s):
+    <no results>
+https://lyncdiscover.ikea.com (1.3s):
+    <no results>
+http://m.fr.ikea.com (0.3s):
+    <no results>
+https://m.fr.ikea.com (0.3s):
+    <no results>
+https://lt-jobs.about.ikea.com (3.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://metrics.ikea.com (0.4s):
+    <no results>
+http://msoid.ikea.com (0.4s):
+    <no results>
+http://memoriaanual.ikea.com (0.8s):
+    Nginx,  (Web servers, Reverse proxies)
+https://metrics.ikea.com (0.4s):
+    <no results>
+https://lv-jobs.about.ikea.com (2.9s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://ms-jobs.about.ikea.com (0.5s):
+    <no results>
+http://news.ikea.com (0.2s):
+    <no results>
+http://news-inter.ikea.com (0.2s):
+    <no results>
+https://msoid.ikea.com (0.5s):
+    <no results>
+https://memoriaanual.ikea.com (0.8s):
+    Nginx,  (Web servers, Reverse proxies)
+https://news.ikea.com (0.2s):
+    <no results>
+https://news-inter.ikea.com (0.2s):
+    <no results>
+https://lv-int-jobs.about.ikea.com (3.4s):
+    Google Tag Manager,  (Tag managers)
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+http://nl.accounts.ikea.com (0.2s):
+    <no results>
+http://news.inter.ikea.com (0.3s):
+    Microsoft HTTPAPI, 2.0 (Web servers)
+https://nl.accounts.ikea.com (0.4s):
+    <no results>
+http://newsroom.inter.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://news.inter.ikea.com (0.4s):
+    Microsoft HTTPAPI, 2.0 (Web servers)
+http://nl-jobs.about.ikea.com (0.4s):
+    <no results>
+https://newsroom.inter.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://oos.inside.ikea.com (0.1s):
+    <no results>
+http://no-int-jobs.about.ikea.com (0.5s):
+    <no results>
+https://oos.inside.ikea.com (0.1s):
+    <no results>
+http://no-jobs.about.ikea.com (0.5s):
+    <no results>
+http://order2.ikea.com (0.3s):
+    <no results>
+https://lt-int-jobs.about.ikea.com (3.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://optiva.food.inter.ikea.com (0.4s):
+    <no results>
+http://onlinecatalogueasia.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://order2.ikea.com (0.2s):
+    <no results>
+http://order-cancellation.ocp.ingka.ikea.com (0.2s):
+    <no results>
+https://order-cancellation.ocp.ingka.ikea.com (0.3s):
+    <no results>
+https://onlinecatalogueasia.ikea.com (0.7s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://pl.accounts.ikea.com (0.2s):
+    <no results>
+https://optiva.food.inter.ikea.com (0.5s):
+    Microsoft ASP.NET,  (Web frameworks)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+http://plus.app.ikea.com (0.2s):
+    <no results>
+http://planning-insight.ikea.com (0.3s):
+    <no results>
+http://parcel-cdn.order.email.ikea.com (0.6s):
+    Amazon S3,  (Miscellaneous)
+    Amazon Web Services,  (PaaS)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://pl.accounts.ikea.com (0.3s):
+    <no results>
+https://planning-insight.ikea.com (0.4s):
+    <no results>
+http://pl-jobs.about.ikea.com (0.4s):
+    <no results>
+https://parcel-cdn.order.email.ikea.com (0.8s):
+    Amazon S3,  (Miscellaneous)
+    Amazon Web Services,  (PaaS)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://plus.app.ikea.com (0.5s):
+    F5 BigIP,  (Reverse proxies)
+http://psathome.ikea.com (0.3s):
+    <no results>
+http://preview.developer.ikea.com (0.5s):
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+http://preview.tst.about.ikea.com (0.4s):
+    <no results>
+https://preview.developer.ikea.com (0.7s):
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+https://psathome.ikea.com (0.3s):
+    <no results>
+http://publications-au-en.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-be-nl.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://preview.tst.about.ikea.com (0.8s):
+    Sitecore,  (CMS)
+    Microsoft ASP.NET,  (Web frameworks)
+    Azure,  (PaaS)
+http://publications-ch-de.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-ch-fr.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-cy-el.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-au-en.ikea.com (1.0s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://publications-ch-de.ikea.com (0.7s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://publications-ca-fr.ikea.com (1.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://nl-jobs.about.ikea.com (3.8s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://ms-jobs.about.ikea.com (4.3s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://publications-dk-da.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-ca-fr.ikea.com (1.4s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-es-en.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-be-nl.ikea.com (0.5s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://no-jobs.about.ikea.com (4.0s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://publications-cy-el.ikea.com (0.6s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://publications-ch-fr.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://no-int-jobs.about.ikea.com (4.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://publications-ext.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-ext-preprod.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-hr-hr.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://pl-jobs.about.ikea.com (3.2s):
+    Google Tag Manager,  (Tag managers)
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+http://publications-kw-ar.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-es-en.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://publications-ma-ar.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-dk-da.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://publications-ma-fr.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-kw-ar.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://publications-ext.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Google Font API,  (Font scripts)
+https://publications-hr-hr.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://publications-no-no.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-hk-en.ikea.com (1.2s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-cz-cs.ikea.com (2.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-ma-ar.ikea.com (0.4s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-ie-en.ikea.com (1.2s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-se-sv.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-sa-en.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-hk-en.ikea.com (1.1s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://publications-cz-cs.ikea.com (1.7s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-ie-en.ikea.com (1.2s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-si-sl.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-mx-es.ikea.com (0.6s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://publications-ma-fr.ikea.com (0.4s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-no-no.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://publications-sa-en.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://publications-test-de-de.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://purchmanual.inter.ikea.com (0.3s):
+    <no results>
+https://publications-se-sv.ikea.com (0.5s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://publications-mx-es.ikea.com (0.2s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://publications-si-sl.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://qa.journeys.ikea.com (0.3s):
+    <no results>
+https://purchmanual.inter.ikea.com (0.1s):
+    <no results>
+http://publications-rs-sr.ikea.com (1.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://publications-ru-ru.ikea.com (1.2s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://retail.api.ikea.com (0.2s):
+    <no results>
+https://publications-test-de-de.ikea.com (0.4s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+https://qa.journeys.ikea.com (0.4s):
+    AngularJS,  (JavaScript frameworks)
+    Microsoft ASP.NET,  (Web frameworks)
+    Azure,  (PaaS)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+https://publications-rs-sr.ikea.com (1.4s):
+    Nginx,  (Web servers, Reverse proxies)
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://secureae2.ikea.com (0.1s):
+    <no results>
+https://publications-ru-ru.ikea.com (1.2s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+    Nginx,  (Web servers, Reverse proxies)
+http://secureae2.ikea.com (0.3s):
+    <no results>
+http://secureae.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://schedules.belgium.ikea.com (0.4s):
+    Azure,  (PaaS)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    Microsoft ASP.NET,  (Web frameworks)
+http://securema2.ikea.com (0.1s):
+    <no results>
+http://secure.eu.ikea.com (0.1s):
+    <no results>
+https://secure.eu.ikea.com (0.1s):
+    <no results>
+https://schedules.belgium.ikea.com (0.5s):
+    Azure,  (PaaS)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    Microsoft ASP.NET, 4.0.30319 (Web frameworks)
+http://securema.ikea.com (0.1s):
+    <no results>
+https://secureae.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+https://securema.ikea.com (0.2s):
+    <no results>
+https://securem.ar.ikea.com (0.2s):
+    <no results>
+https://securema2.ikea.com (0.3s):
+    Amazon Cloudfront,  (CDN)
+    Amazon Web Services,  (PaaS)
+http://securem.ar.ikea.com (0.3s):
+    <no results>
+http://sicas.ikea.com (0.3s):
+    <no results>
+https://sicas.ikea.com (0.3s):
+    <no results>
+http://review.symfonisk.ikea.com (1.3s):
+    <no results>
+https://review.symfonisk.ikea.com (1.5s):
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+    Microsoft ASP.NET,  (Web frameworks)
+    Azure,  (PaaS)
+http://secure.ca.ikea.com (1.2s):
+    <no results>
+https://secure.ca.ikea.com (1.3s):
+    <no results>
+http://sk-jobs.about.ikea.com (0.3s):
+    <no results>
+https://retail.api.ikea.com (1.7s):
+    <no results>
+http://smetrics.ikea.com (0.3s):
+    <no results>
+http://shop.static.ingka.ikea.com (1.3s):
+    <no results>
+http://sk.accounts.ikea.com (1.1s):
+    <no results>
+http://sl-jobs.about.ikea.com (0.3s):
+    <no results>
+http://sl-int-jobs.about.ikea.com (0.4s):
+    <no results>
+https://sk.accounts.ikea.com (1.1s):
+    <no results>
+https://smetrics.ikea.com (0.3s):
+    <no results>
+https://shop.static.ingka.ikea.com (1.3s):
+    <no results>
+http://sts.home.inter.ikea.com (0.2s):
+    Microsoft HTTPAPI, 2.0 (Web servers)
+http://sso.qa.journeys.ikea.com (0.4s):
+    <no results>
+https://sts.home.inter.ikea.com (0.4s):
+    Microsoft HTTPAPI, 2.0 (Web servers)
+http://sk-int-jobs.about.ikea.com (1.4s):
+    <no results>
+http://sts.news.inter.ikea.com (0.4s):
+    Microsoft HTTPAPI, 2.0 (Web servers)
+http://th-jobs.about.ikea.com (0.2s):
+    <no results>
+http://supplierportal.ikea.com (0.7s):
+    <no results>
+https://sso.qa.journeys.ikea.com (1.2s):
+    Microsoft ASP.NET, 4.0.30319 (Web frameworks)
+    Azure,  (PaaS)
+    IIS, 10.0 (Web servers)
+    Windows Server,  (Operating systems)
+http://tst.about.ikea.com (0.3s):
+    <no results>
+https://supplierportal.ikea.com (1.1s):
+    <no results>
+http://uk-jobs.about.ikea.com (0.4s):
+    <no results>
+http://services.ikea.com (2.3s):
+    Zipkin,  (Analytics)
+http://us.accounts.ikea.com (0.3s):
+    <no results>
+http://uk-int-jobs.about.ikea.com (0.6s):
+    <no results>
+http://th-int-jobs.about.ikea.com (1.4s):
+    <no results>
+https://sk-jobs.about.ikea.com (2.5s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://us.accounts.ikea.com (0.4s):
+    <no results>
+http://vi-int-jobs.about.ikea.com (0.5s):
+    <no results>
+http://view.uk.ikea.com (0.6s):
+    Apache,  (Web servers)
+https://sl-jobs.about.ikea.com (2.9s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+http://webplanners.ikea.com (0.5s):
+    <no results>
+http://vi-jobs.about.ikea.com (0.7s):
+    <no results>
+https://webplanners.ikea.com (0.5s):
+    <no results>
+http://ww4.ikea.com (0.3s):
+    <no results>
+http://ww8.ikea.com (0.3s):
+    <no results>
+https://ww4.ikea.com (0.4s):
+    <no results>
+https://sl-int-jobs.about.ikea.com (4.0s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://ww8.ikea.com (0.5s):
+    <no results>
+http://www.appointmentbooking.ikea.com (0.6s):
+    <no results>
+http://www.cip.ikea.com (0.3s):
+    <no results>
+http://www.ciptest.ikea.com (0.3s):
+    <no results>
+https://sk-int-jobs.about.ikea.com (5.1s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://www.cip.ikea.com (0.8s):
+    Java,  (Programming languages)
+http://www.des.ikea.com (0.3s):
+    <no results>
+http://www.ikea.com (0.3s):
+    <no results>
+https://www.des.ikea.com (0.6s):
+    Java Servlet,  (Web frameworks)
+    Java,  (Programming languages)
+https://www.ciptest.ikea.com (1.3s):
+    <no results>
+https://th-jobs.about.ikea.com (5.2s):
+    Google Tag Manager,  (Tag managers)
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+http://www.memoriaanual.ikea.com (0.8s):
+    Nginx,  (Web servers, Reverse proxies)
+https://www.ikea.com (1.3s):
+    Akamai,  (CDN)
+    Optimizely,  (Analytics)
+https://www.memoriaanual.ikea.com (1.1s):
+    Nginx,  (Web servers, Reverse proxies)
+https://uk-jobs.about.ikea.com (5.6s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://uk-int-jobs.about.ikea.com (5.9s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://vi-jobs.about.ikea.com (5.4s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://vi-int-jobs.about.ikea.com (5.3s):
+    Kestrel,  (Web servers)
+    Microsoft ASP.NET,  (Web frameworks)
+    Google Tag Manager,  (Tag managers)
+https://www.appointmentbooking.ikea.com (4.3s):
+    OWL Carousel,  (Widgets)
+    jQuery,  (JavaScript libraries)
+    Bootstrap,  (UI frameworks)
+    jQuery,  (JavaScript libraries)
+    Font Awesome,  (Font scripts)
+https://tst.about.ikea.com (7.7s):
+    Backbone.js,  (JavaScript frameworks)
+    Underscore.js,  (JavaScript libraries)
+    Font Awesome,  (Font scripts)
+    Azure,  (PaaS)
+    YouTube,  (Video players)
+    Modernizr,  (JavaScript libraries)
+    Sitecore,  (CMS)
+    Hammer.js,  (JavaScript libraries)
+    jQuery,  (JavaScript libraries)
+    Moment.js,  (JavaScript libraries)
